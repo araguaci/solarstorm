@@ -6,6 +6,10 @@ Good explanation of what you saw last night...for us this far South, we see a lo
 ## PT
 Boa explicação do que você viu ontem à noite... para nós, no extremo sul, vemos muito rosa avermelhado porque em nossa latitude, vemos principalmente a altitude superior. Nós, no Sul, vivemos algo muito único e possivelmente único na vida para aqueles que estavam curiosos...
 
+## AURORA
+
+![](https://github.com/araguaci/solarstorm/blob/main/public/aurora-colors.jpeg)
+
 ## sources
 
  - [aurora](https://twitter.com/hashtag/aurora?src=hashtag_click)
