@@ -1,0 +1,53 @@
+---
+import '@/styles/main.css'
+
+interface Props {
+  title?: string | undefined
+  description?: string | undefined
+  author?: string | undefined
+  og: string
+}
+
+const { title, description, author, og } = Astro.props
+---
+
+<head>
+  <meta charset="utf-8" />
+  <meta name="robots" content="index, follow" />
+  <meta
+    name="googlebot"
+    content="index, follow, max-video-preview:-1, max-image-preview:large, max-snippet:-1"
+  />
+  <meta name="viewport" content="width=device-width,initial-scale=1" />
+  <meta name="generator" content={Astro.generator} />
+  <link rel="shortcut icon" type="image/png" href="./favicon.ico" />
+  <title>{title}</title>
+  <meta name="description" content="Ayrton Senna da Silva, um ícone do automobilismo, deixou um legado que transcende o esporte." />
+  <meta property="og:site_name" content="Solar Storm" />
+  <meta
+    property="og:description"
+    content="Ayrton Senna da Silva, um ícone do automobilismo, deixou um legado que transcende o esporte."
+  />
+  <meta property="og:title" content="Solar Storm" />
+  <meta name="twitter:card" content="https://res.cloudinary.com/dw8gudamo/image/upload/c_limit,w_1280/c_limit,w_1920/f_webp/q_auto/0_ayrtonsenna_0_txcfbf?_a=BAVAr0By0" />
+  <meta name="twitter:title" content="Solar Storm" />
+  <meta
+    name="twitter:description"
+    content="Ayrton Senna da Silva, um ícone do automobilismo, deixou um legado que transcende o esporte."
+  />
+  <meta property="og:url" content="https://solarstorm.vercel.app/" />
+  <meta name="twitter:url" content="https://solarstorm.vercel.app/" />
+<!-- <meta name="title" content={title} /> -->
+<!-- <meta name="description" content={description} /> -->
+<!-- <meta name="author" content={author} /> -->
+<!-- <meta property="og:type" content="website" /> -->
+<!-- <meta property="og:url" content={Astro.url} /> -->
+<!-- <meta property="og:title" content={title} /> -->
+<!-- <meta property="og:description" content={description} /> -->
+<!-- <meta property="og:image" content={new URL(og, Astro.url)} /> -->
+<!-- <meta name="twitter:url" content={Astro.url} /> -->
+<!-- <meta name="twitter:title" content={title} /> -->
+<!-- <meta name="twitter:description" content={description} /> -->
+<!-- <meta name="twitter:image" content={new URL(og, Astro.url)} /> -->
+<!-- <meta name="twitter:card" content="./images/0_ayrtonsenna_0.jpg" /> -->
+</head>

@@ -1,0 +1,128 @@
+# Thread by @import\_robs on Thread Reader App
+
+[![Roberta Duarte Profile picture](https://pbs.twimg.com/profile_images/1755861993301360640/YW62GAi9_bigger.jpg)](https://threadreaderapp.com/user/import_robs)
+
+ 
+
+What are the solar storms that are causing these auroras?
+
+We are close to a peak in solar activity so this will become more and more frequent.
+
+What are the problems and consequences of this?
+
+Thread solar 🌄
+
+![Image](https://pbs.twimg.com/media/GNRpT6CWwAAmQ4_.jpg)
+
+ 
+
+The first thing is to understand that the Sun has magnetic fields that are extremely complicated. Much more than that of Earth.
+
+It's a real chaos of magnetic field lines coming in and out.
+
+And furthermore, the Sun has differential rotation which means that every part of it +
+
+![Image](https://pbs.twimg.com/media/GNRpoiFWYAAGmbp.jpg)
+
+ 
+
+rotates at a different speed. This ends up twisting the magnetic field lines.
+
+Have you tried putting two equal sides of the magnets together? They repel each other. On the Sun, the same thing happens when two equal sides of the lines meet.
+
+But with a very absurd energy.
+Solar flares can happen which are when these magnetic field lines interact and **explode**.
+
+During these explosions, part of the solar plasma along with radiation is released into space.
+
+I think you already know where I'm going but first I want to raise one point.
+
+![Image](https://pbs.twimg.com/media/GNRqrBgXwAEIbmM.png)
+
+ 
+
+Magnetic fields are also associated with sunspots and sunspots with solar flares.
+
+And the frequency of these spots has a cycle of about 11 years.
+
+Every 11 years, a peak in solar activity increases the number of sunspots, which in turn increases the number of eruptions.
+Here is a graph of the cycles and we are currently close to the peak of cycle 25.
+
+As you can see from the graph, it appears that the number of spots has been decreasing since 1970.
+
+![Image](https://pbs.twimg.com/media/GNRrbNmWgAA4JkN.jpg)
+
+ 
+
+Anyway, moving on.
+
+When we are close to a cycle, the number of eruptions increases and the chance of one of these "plasma clouds" reaching Earth increases.
+
+When they arrive here, the charged particles and the magnetic field interact with the Earth's magnetic field.
+These particles reach the atmosphere close to the poles, forming what we know as auroras (borealis in the North and austral in the South).
+
+The color of the auroras depends on which atom was excited by the charged particles. That's why there are auroras of so many different colors.
+
+![Image](https://pbs.twimg.com/media/GNRsXCiWwAAlvLT.jpg)
+
+ 
+
+It happens at the poles because the Earth's magnetic field lines go towards the Earth's surface, something that doesn't happen at the Equator.
+
+So it's as if the magnetic field lines themselves indicate the path for the particles.
+
+The closer to the Equator, the lower the chances.
+
+![Image](https://pbs.twimg.com/media/GNRsnQLXUAA4Llt.png)
+
+ 
+
+The intensity of solar storms depends on the intensity of the solar flare.
+
+Near the peak, these eruptions can be more intense so that means more intense solar storms here on Earth.
+
+Like the one happening this weekend.
+
+But what is the danger for us? How does this affect our lives?
+
+The biggest concern is in communication systems and electronic devices.
+
+However, these storms are monitored daily and there is time to warn if there is any danger.
+So you can see how they are monitored.
+
+It is now 3:10 am, it has been 3 hours since NOAA released a note that an energetic flare was observed on the Sun at 00:44 Brasília time.
+
+It is monitored at all times.
+
+![Image](https://pbs.twimg.com/media/GNRuKIhXkAAj6rA.jpg)
+
+ 
+
+Furthermore, satellites are already launched with defense mechanisms for solar storms.
+
+So, in general, nothing to worry about. The worst that can happen is flights being delayed due to communication problems.
+Of course, a strong one like 1859 could happen and could greatly affect technology.
+
+But as I said: they are monitored at all times, any danger is warned days in advance.
+
+The one that hit at the weekend has been warned since Wednesday.
+And about seeing in Brazil, the closer to the Equator the less likely there is to be an aurora.
+
+It's impossible? No, but it's unlikely. It depends on the intensity of these storms and something like 1859 would have to happen to be seen up to the Equator.
+And as they start from the poles and in the case of Brazil it would have to be the South pole, first it would have to happen in Rio Grande do Sul, Santa Catarina and Paraná.
+
+There's no way it could happen in Rio de Janeiro without happening in Paraná first, okay?
+
+So there was no dawn in Rio, don't worry.
+There's no reason to worry because if you're over 11 years old, you've experienced a peak in solar activity before and probably don't even remember it.
+
+Brazil already suffered some impacts last year and not much happened either, the worst thing was that the flight was delayed.
+For those who want to know how this relates to the climate, it doesn't have much to do with it, but @KariLimaX is the climate expert and can answer more appropriately.
+
+About the Sun, @pjasimoes is an expert and (for me) the Sun is one of the most complex things in Astronomy.
+ 
+---
+
+Source: [https://threadreaderapp.com/thread/1789177671894671814.html](https://threadreaderapp.com/thread/1789177671894671814.html)
+
+　
